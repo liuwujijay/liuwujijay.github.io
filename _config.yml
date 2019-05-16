@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: What a martyr craves more than anything is a sword to fall on,so you sharpen the blade,hold it at just the right angle,and then 3,2,1.
+title: What a martyr craves more than anything is a sword to fall on/n so you sharpen the blade /n hold it at just the right angle and then 3 2 1
 email: liuwujicoding@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   夫英雄者，胸怀大志，腹有良谋，有包藏宇宙之机，吞吐天地之志也.
